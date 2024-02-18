@@ -1,7 +1,7 @@
 ![MasterHead ](https://i.pinimg.com/originals/6a/62/20/6a6220cf08d104335ab53dd59c7dce62.gif)
 <h1 align="center">Greetings! 👋, I'm Harsh Pawar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itshaarsh&label=Profile%20views&color=0e75b6&style=flat" alt="itshaarsh" /> </p>
 
