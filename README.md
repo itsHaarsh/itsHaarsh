@@ -1,4 +1,6 @@
-![MasterHead ](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="width: 1200px; height: 300px;">
+
+
 <h1 align="center">Greetings! 👋, I'm Harsh Pawar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
